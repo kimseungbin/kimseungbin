@@ -39,6 +39,6 @@ Use
 
 Miscellaneous
 
-![Language Badge](https://img.shields.io/badge/Languages-Korean,English-brightgreen)
+![Language Badge](https://img.shields.io/badge/Languages-Korean,English-yellowgreen?style=for-the-badge&logo=appveyor)
 
 [comment]: <> (https://github.com/Ileriayo/markdown-badges)

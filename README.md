@@ -1,13 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on **backend side of [Diver](http://bookdiver.net/)**
+- 🔭 I’m currently working on **backend side of [Diver](http://bookdiver.net/)** - A book review and share service.
 - 🌱 I’m currently learning **Javascript / NoSQL**
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
-- 🎓 Education: Korea University. Linguistics.
+ - 🎓 Education: Korea University. BA in Linguistics.
+- 📫 How to reach me: ... seungbin0508@gmail.com
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungbin0508)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

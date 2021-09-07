@@ -1,8 +1,8 @@
-### Myself
+## Myself
 
 - 🔭 I’m currently working on **backend side of [Diver](http://bookdiver.net/)** - A book review and share service.
 - 📖 I’m currently learning **TypeScript / NoSQL**
-- ✉️ How to reach me: ... seungbin0508@gmail.com
+- ✉️ How to reach me: seungbin0508@gmail.com
 - 🎓 Education: Korea University. BA in Linguistics.
 
 <details>
@@ -20,8 +20,8 @@ You've clicked for more not-so-quite-interesting information!
 - Italian | Beginner : 3 credits
 </details>
 
-
-### Programming
+---
+## Programming
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungbin0508)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -51,8 +51,20 @@ Use
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-Miscellaneous
+___
+## 🚧 Projects
+###1. 🌊 [DIVER](https://github.com/sharingBookReview-SERVICE/sharingBookReview-BE) 🌊
 
-![Language Badge](https://img.shields.io/badge/Languages-Korean,English-yellowgreen?style=for-the-badge&logo=appveyor)
+- ❓ Diver provides collections and reviews of books and users can share them like a social network. It is based on Express, React and MongoDB.
+
+- 🔨 My contribution
+  - Team leader
+  - Develop RESTful API and CRUD on book reviews and book collections.
+  - Implement service logic in **Social Feed**
+
+
+
+
+
 
 [comment]: <> (https://github.com/Ileriayo/markdown-badges)

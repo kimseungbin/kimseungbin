@@ -12,7 +12,7 @@ You've clicked for more not-so-quite-interesting information!
 
 - Korean | Native
 - English | Advanced : scored 960 in [ETS TOEIC](https://www.ets.org/toeic)
-- Spanish | Intermediate : 12 credits in Spanish and Spanish linguistics
+- Spanish | Intermediate : 12 credits in Spanish language and Spanish linguistics
 - Classic Latin | Intermediate : 6 credits +  2 classes in [Korea University Veritas Forum](http://www.veritas.org/location/korea-university/)
 - Japanese | Elementary ~ Intermediate : home taught + 2 years in high school
 - Chinese | Elementary ~ Intermediate : 1 year each in elementary and high school + 12 credits
@@ -60,7 +60,8 @@ ___
 - 🔨 My contribution
   - Team leader
   - Develop RESTful API and CRUD on book reviews and book collections.
-  - Implement service logic in **Social Feed**
+  - Implement service logic in **Social Feed** : Feed shows reviews which users might consider interesting first.
+  - Implement dynamic **Book Tagging** : Users can dynamically create a tag describing a book.
 
 
 

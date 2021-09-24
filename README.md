@@ -32,8 +32,14 @@ Focus on...
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+
+
+<details><summary><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></summary>
+<img src="https://university.mongodb.com/course_completion/d1950e20-22ab-40c5-9c93-aecbe3a5a5dd/printable?format=img" alt="linguist" width="500" />
+</details>
+
 
 Currently Learning...
 
@@ -53,7 +59,7 @@ Use
 
 ___
 ## 🚧 Projects
-###1. 🌊 [DIVER](https://github.com/sharingBookReview-SERVICE/sharingBookReview-BE) 🌊
+### 1. 🌊 [DIVER](https://github.com/sharingBookReview-SERVICE/sharingBookReview-BE) 🌊
 
 - ❓ Diver provides collections and reviews of books and users can share them like a social network. It is based on Express, React and MongoDB.
 

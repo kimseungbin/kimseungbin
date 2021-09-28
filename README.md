@@ -1,6 +1,6 @@
 ## Myself
 
-- 🔭 I’m currently working on **backend side of [Diver](http://bookdiver.net/)** - A book review and share service.
+- 🔭 I’m currently working on refactoring of **backend side of [Diver](http://bookdiver.net/)** - A book review and share service - to be in OOP style.
 - 📖 I’m currently learning **TypeScript / NoSQL**
 - ✉️ How to reach me: seungbin0508@gmail.com
 - 🎓 Education: Korea University. BA in Linguistics.

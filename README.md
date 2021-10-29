@@ -1,6 +1,6 @@
 ## Myself
 
-- 🔭 I’m currently working on refactoring of **backend side of [Diver](http://bookdiver.net/)** - A book review and share service - to be in OOP style.
+- 🔭 I’m currently working on [ServerKit](https://serverkit-teaser.azurewebsites.net) in [Famoz](https://famoz.co.kr)
 - 📖 I’m currently learning **TypeScript / NoSQL**
 - ✉️ How to reach me: seungbin0508@gmail.com
 - 🎓 Education: Korea University. BA in Linguistics.
@@ -61,17 +61,20 @@ ___
 ## 🚧 Projects
 ### 1. 🌊 [DIVER](https://github.com/sharingBookReview-SERVICE/sharingBookReview-BE) 🌊
 
+<details>
+
 - ❓ Diver provides collections and reviews of books and users can share them like a social network. It is based on Express, React and MongoDB.
-
+- Currently, being serviced via AWS. [link](https://www.bookdiver.net)
 - 🔨 My contribution
-  - Team leader
-  - Develop RESTful API and CRUD on book reviews and book collections.
-  - Implement service logic in **Social Feed** : Feed shows reviews which users might consider interesting first.
-  - Implement dynamic **Book Tagging** : Users can dynamically create a tag describing a book.
+    - Team leader
+    - Develop RESTful API and CRUD on book reviews and book collections.
+    - Implement service logic in **Social Feed** : Feed shows reviews which users might consider interesting first.
+    - Implement dynamic **Book Tagging** : Users can dynamically create a tag describing a book.
 
-
-
-
+![IMG_6268](https://user-images.githubusercontent.com/24871719/139354752-c1d03d09-3790-46a9-89fa-f880a181e404.JPG)
+![IMG_6269](https://user-images.githubusercontent.com/24871719/139354787-4e45f86b-d2e4-406e-9df6-b24a3ece96d7.JPG)
+![IMG_6270](https://user-images.githubusercontent.com/24871719/139354743-51200aca-8d81-4dcb-a867-d547df4c4f09.JPG)
+</details>
 
 
 [comment]: <> (https://github.com/Ileriayo/markdown-badges)

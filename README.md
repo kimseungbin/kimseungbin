@@ -63,8 +63,12 @@ ___
 
 <details>
 
-- ❓ Diver provides collections and reviews of books and users can share them like a social network. It is based on Express, React and MongoDB.
-- Currently, being serviced via AWS. [link](https://www.bookdiver.net)
+- ❓ Diver provides collections and reviews of books and users can share them like a social network.
+- Live service via AWS. [link](https://www.bookdiver.net)
+- Development 
+- Tech stacks: Node.js, Express, React and MongoDB.
+- 2021.08.01~2021.08.31
+- Team Size: 7 (2 FE devs, 2 BE devs and 3 Designers)
 - 🔨 My contribution
     - Team leader
     - Develop RESTful API and CRUD on book reviews and book collections.

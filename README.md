@@ -34,12 +34,13 @@ Focus on...
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-
-
 <details><summary><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></summary>
 <img src="https://university.mongodb.com/course_completion/d1950e20-22ab-40c5-9c93-aecbe3a5a5dd/printable?format=img" alt="linguist" width="500" />
 </details>
 
+Experiences with...
+
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 Currently Learning...
 

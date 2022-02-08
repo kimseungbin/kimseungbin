@@ -2,7 +2,7 @@
 
 - 📖 I’m currently learning **TypeScript / NoSQL**
 - ✉️ How to reach me: seungbin0508@gmail.com
-- 🎓 Education: Korea University. BA in Linguistics.
+- 🎓 Education: Korea University. B.A. in Linguistics.
 
 <details>
     <summary><img src="https://user-images.githubusercontent.com/24871719/132305540-3832840e-279e-41c6-a78d-49852b25ced1.JPG" alt="linguist" width="500" style="border-radius: 2%"/></summary>

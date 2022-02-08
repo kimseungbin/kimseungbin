@@ -1,6 +1,5 @@
 ## Myself
 
-- 🔭 I’m currently working on [ServerKit](https://serverkit-teaser.azurewebsites.net) in [Famoz](https://famoz.co.kr)
 - 📖 I’m currently learning **TypeScript / NoSQL**
 - ✉️ How to reach me: seungbin0508@gmail.com
 - 🎓 Education: Korea University. BA in Linguistics.

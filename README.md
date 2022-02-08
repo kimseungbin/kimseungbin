@@ -4,20 +4,7 @@
 - ✉️ How to reach me: seungbin0508@gmail.com
 - 🎓 Education: Korea University. B.A. in Linguistics.
 
-<details>
-    <summary><img src="https://user-images.githubusercontent.com/24871719/132305540-3832840e-279e-41c6-a78d-49852b25ced1.JPG" alt="linguist" width="500" style="border-radius: 2%"/></summary>
-
-You've clicked for more not-so-quite-interesting information!
-
-- Korean | Native
-- English | Advanced : scored 960 in [ETS TOEIC](https://www.ets.org/toeic)
-- Spanish | Intermediate : 12 credits in Spanish language and Spanish linguistics
-- Classic Latin | Intermediate : 6 credits +  2 classes in [Korea University Veritas Forum](http://www.veritas.org/location/korea-university/)
-- Japanese | Elementary ~ Intermediate : home taught + 2 years in high school
-- Chinese | Elementary ~ Intermediate : 1 year each in elementary and high school + 12 credits
-- French | Beginner: 1 year in elementary school
-- Italian | Beginner : 3 credits
-</details>
+<img src="https://user-images.githubusercontent.com/24871719/132305540-3832840e-279e-41c6-a78d-49852b25ced1.JPG" alt="linguist" width="500" style="border-radius: 2%"/>
 
 ---
 ## Programming

@@ -70,5 +70,9 @@ ___
 
 </details>
 
+### 2. [DIVER 2](https://github.com/sharingBookReview-SERVICE/DIVER_V2_BE)
+
+2022.03 ~
+Upgraded version of original Diver
 
 [comment]: <> (https://github.com/Ileriayo/markdown-badges)

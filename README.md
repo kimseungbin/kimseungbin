@@ -4,6 +4,7 @@
     - Backend: Go
     - Fontend: Svelte
 - ✉️ How to reach me: seungbin0508@gmail.com
+- 📚[Tech Wiki](https://github.com/seungbin0508/seungbin0508/wiki)
 - 🎓 Education: Korea University. B.A. in Linguistics.
 
 <img src="https://user-images.githubusercontent.com/24871719/132305540-3832840e-279e-41c6-a78d-49852b25ced1.JPG" alt="linguist" width="500" style="border-radius: 2%"/>

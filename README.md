@@ -20,6 +20,8 @@
 ### Programming Languages:
 - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 - ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+  - How I learned Go
+    - [Go TDD](https://github.com/seungbin0508/go-tdd)
 #### ┗Runtime
 - ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
 #### ┗Miscellaneous

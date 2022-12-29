@@ -38,6 +38,11 @@
 #### ┗ORM
 - [Bun](https://bun.uptrace.dev/)
 
+### DevOps
+- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  - AWS CloudFormation
+  - AWS CDK
+
 ### DevTools
 - ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 - ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)

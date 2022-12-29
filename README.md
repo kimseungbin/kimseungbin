@@ -10,10 +10,10 @@
 <img src="https://user-images.githubusercontent.com/24871719/132305540-3832840e-279e-41c6-a78d-49852b25ced1.JPG" alt="linguist" width="500" style="border-radius: 2%"/>
 
 ---
-## Programming
+## GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungbin0508)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimseungbin)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimseungbin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # Skills

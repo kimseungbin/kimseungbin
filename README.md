@@ -37,7 +37,7 @@
 ## OpenAPI
 - ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 - https://www.openapis.org/
-- Advanced at designing and writing RestAPI documentation using OpenAPI 3.1.x.
+- Advanced at designing and writing RESTful API documentation using OpenAPI 3.1.x.
 
 ## GraphQL
 - ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) / ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)

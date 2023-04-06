@@ -31,6 +31,7 @@
 ## Go 
 - ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 - [Sample Repository] [Go TDD](https://github.com/kimseungbin/go-tdd): demonstrates basic understanding on TDD and Go.
+- [Sample Repository] [microservice](https://github.com/kimseungbin/microservice): Microservice practice
 - [Bun](https://bun.uptrace.dev/)
   - Can connect to PostgreSQL using ORM.
 

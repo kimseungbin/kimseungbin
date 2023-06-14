@@ -30,6 +30,7 @@
 
 ## Go 
 - ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+- [Sample Repository] [go-cdk-go-lambda](https://github.com/kimseungbin/go-cdk-go-lambda): A demo CDK app written in Go that showcases the deployment of AWS Lambda function using Go.
 - [Sample Repository] [Go TDD](https://github.com/kimseungbin/go-tdd): demonstrates basic understanding on TDD and Go.
 - [Sample Repository] [microservice](https://github.com/kimseungbin/microservice): Microservice practice
 - [Bun](https://bun.uptrace.dev/)
@@ -61,6 +62,7 @@
 - ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 - AWS CloudFormation
 - AWS CDK
+- [Sample Repository] [go-cdk-go-lambda](https://github.com/kimseungbin/go-cdk-go-lambda): A demo CDK app written in Go that showcases the deployment of AWS Lambda function using Go.
 - [Sample Repository] [Cloudformation](https://github.com/kimseungbin/cloudformation): A simple cloudformation template provisioning VPC and subnets with own CI/CD.
 
 ## Docker

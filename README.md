@@ -26,9 +26,9 @@
 
 ## Go 
 - ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-- [Sample Repository] [go-cdk-go-lambda](https://github.com/kimseungbin/go-cdk-go-lambda): A demo CDK app written in Go that showcases the deployment of AWS Lambda function using Go.
-- [Sample Repository] [Go TDD](https://github.com/kimseungbin/go-tdd): demonstrates basic understanding on TDD and Go.
-- [Sample Repository] [microservice](https://github.com/kimseungbin/microservice): Microservice practice
+- **Sample Repository** [go-cdk-go-lambda](https://github.com/kimseungbin/go-cdk-go-lambda): A demo CDK app written in Go that showcases the deployment of AWS Lambda function using Go.
+- **Sample Repository** [Go TDD](https://github.com/kimseungbin/go-tdd): demonstrates basic understanding on TDD and Go.
+- **Sample Repository** [microservice](https://github.com/kimseungbin/microservice): Microservice practice
 - [Bun](https://bun.uptrace.dev/)
   - Can connect to PostgreSQL using ORM.
 
@@ -58,14 +58,14 @@
 - ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 - AWS CloudFormation
 - AWS CDK
-- [Sample Repository] [lambda-puppeteer](https://github.com/kimseungbin/lambda-puppeteer): An example repository of deploying container image AWS Lambda function containing puppeteer.
-- [Sample Repository] [go-cdk-go-lambda](https://github.com/kimseungbin/go-cdk-go-lambda): A demo CDK app written in Go that showcases the deployment of AWS Lambda function using Go.
-- [Sample Repository] [Cloudformation](https://github.com/kimseungbin/cloudformation): A simple cloudformation template provisioning VPC and subnets with own CI/CD.
+- **Sample Repository** [lambda-puppeteer](https://github.com/kimseungbin/lambda-puppeteer): An example repository of deploying container image AWS Lambda function containing puppeteer.
+- **Sample Repository** [go-cdk-go-lambda](https://github.com/kimseungbin/go-cdk-go-lambda): A demo CDK app written in Go that showcases the deployment of AWS Lambda function using Go.
+- **Sample Repository** [Cloudformation](https://github.com/kimseungbin/cloudformation): A simple cloudformation template provisioning VPC and subnets with own CI/CD.
 
 ## Docker
 - ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 - Can create and use container images
-- [Sample Repository] [go-docker](https://github.com/kimseungbin/go-docker): uses Docker and docker-compose to create local development environment
+- **Sample Repository** [go-docker](https://github.com/kimseungbin/go-docker): uses Docker and docker-compose to create local development environment
 
 ## Git
 - ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) / ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)

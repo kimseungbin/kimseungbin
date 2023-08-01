@@ -8,13 +8,9 @@
 <img src="https://user-images.githubusercontent.com/24871719/132305540-3832840e-279e-41c6-a78d-49852b25ced1.JPG" alt="linguist" width="500" style="border-radius: 2%"/>
 
 ---
-## GitHub Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimseungbin)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimseungbin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 # Skills
+
 ## JavaScript/Node.js 
 - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) / ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
 - ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)

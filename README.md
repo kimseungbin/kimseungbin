@@ -4,6 +4,7 @@
     - Golang & CloudFormation
 - ✉️ How to reach me: luxorienskim@gmail.com
 - 🎓 Education: Korea University. B.A. in Linguistics.
+- ✍️ For sample repositories, please go to [Pinned section](#user-24871719-pinned-items-reorder-form).
 
 <img src="https://user-images.githubusercontent.com/24871719/132305540-3832840e-279e-41c6-a78d-49852b25ced1.JPG" alt="linguist" width="500" style="border-radius: 2%"/>
 

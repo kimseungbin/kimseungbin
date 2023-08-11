@@ -1,7 +1,7 @@
 ## Myself
 
 - 📖 I’m currently learning 
-    - Golang & CloudFormation
+    - k8s & Microservices
 - ✉️ How to reach me: luxorienskim@gmail.com
 - 🎓 Education: Korea University. B.A. in Linguistics.
 - ✍️ For sample repositories, please go to [Pinned section](#user-24871719-pinned-items-reorder-form).

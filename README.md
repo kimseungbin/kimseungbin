@@ -12,6 +12,17 @@
 
 # Skills
 
+## AWS
+
+- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+- **AWS Certified Solutions Architect - Associate**
+- **AWS Certified Cloud Practitioner**
+- AWS CloudFormation
+- AWS CDK
+- **Sample Repository** [lambda-puppeteer](https://github.com/kimseungbin/lambda-puppeteer): An example repository of deploying container image AWS Lambda function containing puppeteer.
+- **Sample Repository** [go-cdk-go-lambda](https://github.com/kimseungbin/go-cdk-go-lambda): A demo CDK app written in Go that showcases the deployment of AWS Lambda function using Go.
+- **Sample Repository** [Cloudformation](https://github.com/kimseungbin/cloudformation): A simple cloudformation template provisioning VPC and subnets with own CI/CD.
+
 ## JavaScript/Node.js 
 - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) / ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
 - ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -54,14 +65,6 @@
 - ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 - Can perform queries using SQL.
 - Can design tables.
-
-## DevOps
-- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-- AWS CloudFormation
-- AWS CDK
-- **Sample Repository** [lambda-puppeteer](https://github.com/kimseungbin/lambda-puppeteer): An example repository of deploying container image AWS Lambda function containing puppeteer.
-- **Sample Repository** [go-cdk-go-lambda](https://github.com/kimseungbin/go-cdk-go-lambda): A demo CDK app written in Go that showcases the deployment of AWS Lambda function using Go.
-- **Sample Repository** [Cloudformation](https://github.com/kimseungbin/cloudformation): A simple cloudformation template provisioning VPC and subnets with own CI/CD.
 
 ## Docker
 - ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)

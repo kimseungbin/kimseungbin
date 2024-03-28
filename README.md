@@ -24,7 +24,10 @@
 - **Sample Repository** [Cloudformation](https://github.com/kimseungbin/cloudformation): A simple cloudformation template provisioning VPC and subnets with own CI/CD.
 
 ## JavaScript/Node.js 
+
 - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) / ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+- ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+  - Intermediate at building both monolithic and microservices web server.
 - ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
   - Intermediate at building a monolithic web server.
 - ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)

@@ -16,8 +16,10 @@
 
 - ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 - **AWS Certified Solutions Architect - Associate**
-- **AWS Certified Developer - Aoosicate**
+- **AWS Certified Developer - Associcate**
+- **AWS Certified SysOps Administrator - Associate**
 - **AWS Certified Cloud Practitioner**
+- **AWS Certified AI Practitioner**
 - AWS CloudFormation
 - AWS CDK
 - **Sample Repository** [lambda-puppeteer](https://github.com/kimseungbin/lambda-puppeteer): An example repository of deploying container image AWS Lambda function containing puppeteer.

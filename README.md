@@ -1,12 +1,23 @@
-## Myself
+# About Me
 
-- 📖 I’m currently learning 
-    - k8s & Microservices
-- ✉️ How to reach me: luxorienskim@gmail.com
-- 🎓 Education: Korea University. B.A. in Linguistics.
-- ✍️ For sample repositories, please go to [Pinned section](#user-24871719-pinned-items-reorder-form).
+I'm a **Solutions Architect** specializing in cloud infrastructure design.
+I help customers transform their ideas into scalable and secure cloud solutions by listening to their needs and recommending optimal architectures.
+My passion lies in automation - from Infrastructure as Code (IaC) to CI/CD pipelines and GitOps - anything that makes fellow developers' lives easier and more productive.
 
-  <img src="https://user-images.githubusercontent.com/24871719/132305540-3832840e-279e-41c6-a78d-49852b25ced1.JPG" alt="linguist" width="500" style="border-radius: 2%"/>
+With experties spanning AWS, NCP, Node.js, Go, and modern DevOps practices, I focus on building systems that are not only robust but also developer-friendly.
+I believe the best infrastructure is the one developers don't have to think about.
+
+**Key Focus Areas**
+- 🏗️ Cloud Infrastructure Design & Architecture
+- 🔄 DevOps & GitOps Engineering
+- 🚀 Developer Experience (DX) Optimization
+- ⚡ Automation & CI/CD Pipelines
+
+**Contact:** luxorienskim@gmail.com
+
+**Education:** Korea University, B.A. in Linguistics
+
+ <img src="https://user-images.githubusercontent.com/24871719/132305540-3832840e-279e-41c6-a78d-49852b25ced1.JPG" alt="linguist" width="500" style="border-radius: 2%"/>
 
 ---
 
